@@ -1,10 +1,3 @@
-// repo link space
-
-
-
-
-
-
 // kilometereToMeter 
 function kilometerToMeter(kilometer){
 
