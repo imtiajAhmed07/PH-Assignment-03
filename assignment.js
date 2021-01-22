@@ -6,6 +6,7 @@ function kilometerToMeter(kilometer){
     if(kilometer < 0){
         return "Warning! Distance can not be negetive value";       /* warning messege */
     }
+    
     return meter;
 }
 
@@ -40,7 +41,6 @@ function budgetCalculator(watch,phone,laptop){
 
     productTotalPrice = watchTotalPrice + phoneTotalPrice + laptopTotalPrice
     return productTotalPrice
-
 }
 
 
