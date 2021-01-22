@@ -6,7 +6,7 @@ function kilometerToMeter(kilometer){
     if(kilometer < 0){
         return "Warning! Distance can not be negetive value";       /* warning messege */
     }
-    
+
     return meter;
 }
 
